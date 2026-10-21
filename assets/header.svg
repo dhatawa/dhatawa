@@ -20,14 +20,14 @@
   <text x="92" y="28" class="code" font-size="13" fill="#7b8cc4">README.md</text>
 
   <text x="48" y="104" class="sans" font-size="22" fill="#8fa3d9">Hi, I'm</text>
-  <text x="46" y="156" class="sans" font-size="54" font-weight="800" fill="url(#name)">YOUR NAME</text>
+  <text x="46" y="156" class="sans" font-size="54" font-weight="800" fill="url(#name)">Dyka Hatawa</text>
   <text x="48" y="196" class="code" font-size="24" fill="#4aa8ff">&gt;</text>
   <text x="76" y="196" class="code" font-size="24" fill="#3ef2b0" clip-path="url(#c0)">Computer Science Student</text>
   <text x="76" y="196" class="code" font-size="24" fill="#3ef2b0" clip-path="url(#c1)">C++ Programmer</text>
   <text x="76" y="196" class="code" font-size="24" fill="#3ef2b0" clip-path="url(#c2)">Python Learner</text>
   <rect x="76" y="168" width="3" height="30" fill="#3ef2b0"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
   <text x="48" y="256" class="sans" font-size="16" fill="#8fa3d9">Learning Python. Writing C++. Building with the community.</text>
-  <text x="48" y="282" class="code" font-size="13" fill="#5d6fa8">@your-github-username</text>
+  <text x="48" y="282" class="code" font-size="13" fill="#5d6fa8">@dhatawa</text>
 
   <circle cx="746" cy="170" r="150" fill="url(#glow)"/>
   <g transform="translate(585,92)">
