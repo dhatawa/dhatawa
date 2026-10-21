@@ -31,8 +31,8 @@ Outside the code editor, I stay active in student organizations and competitions
 ```python
 # about_me.py
 me = {
-    "name": "YOUR NAME",
-    "major": "YOUR MAJOR",            # EDIT
+    "name": "DYKA HATAWA",
+    "major": "",            # EDIT
     "comfortable_with": ["C++"],
     "currently_learning": ["Python"],
     "database": "MySQL",
