@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/dykahatawa"><img 
 src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=4aa8ff" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=ff6b6b" alt="Email"/></a>
+<a href="mailto:dhatawaa@gmail.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=ff6b6b" alt="Email"/></a>
 <a href="https://www.instagram.com/dhatawaa"><img src="https://img.shields.io/badge/Instagram-0b1020?style=for-the-badge&logo=instagram&logoColor=ff7ac6" alt="Instagram"/></a>
 <img src="https://komarev.com/ghpvc/?username=dhatawa&style=for-the-badge&color=3ef2b0&label=PROFILE+VIEWS&labelColor=0b1020" alt="Profile views"/>
 
