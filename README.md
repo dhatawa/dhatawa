@@ -1,16 +1,155 @@
-<h1 align="center">Hi 👋, I'm dhatawa</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<!-- ============================================================
+  GitHub Profile README
+  Setup: create a repo named EXACTLY like your username
+  (e.g. github.com/your-github-username/your-github-username),
+  then put README.md and the assets/ folder in it.
+  Search for "YOUR" and "EDIT" to find everything to replace.
+============================================================= -->
 
-- 📫 How to reach me **dhatawaa@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I think I am Funny :v**
+<img src="assets/header.svg" alt="Animated header: pixel-art developer with typing roles" width="100%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dykahatawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dykahatawa" height="30" width="40" /></a>
-<a href="https://instagram.com/dhatawaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhatawaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dhatawaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhatawaa" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=4aa8ff" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0b1020?style=for-the-badge&logo=gmail&logoColor=ff6b6b" alt="Email"/></a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-0b1020?style=for-the-badge&logo=instagram&logoColor=ff7ac6" alt="Instagram"/></a>
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=3ef2b0&label=PROFILE+VIEWS&labelColor=0b1020" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+## About me
+
+I'm a student from **Institut Teknologi Nasional Bandung** major, who enjoys turning ideas into working software.
+I'm comfortable with **C++**, currently learning **Python**, and I like using AI tools to learn and build faster.
+Outside the code editor, I stay active in student organizations and competitions.
+
+```python
+# about_me.py
+me = {
+    "name": "YOUR NAME",
+    "major": "YOUR MAJOR",            # EDIT
+    "comfortable_with": ["C++"],
+    "currently_learning": ["Python"],
+    "database": "MySQL",
+    "ai_tools": ["Gemini AI", "Claude"],
+    "design": "Canva",
+    "open_to": ["collaboration", "internships", "learning together"],
+}
+```
+
+<br/>
+
+## Language stack
+
+<div align="center">
+<img src="assets/stack.svg" alt="Language stack: C++, Python, SQL" width="480"/>
+</div>
+
+<br/>
+
+## Tools I use
+
+<div align="center">
+
+| Tool | What I use it for |
+|:--|:--|
+| **Gemini AI** | Brainstorming, research, and explaining concepts |
+| **Claude** | Coding help, debugging, and writing documentation |
+| **Canva** | Posters, presentations, and organization content |
+| **MySQL** | Designing tables and writing queries for course projects |
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-0b1020?style=for-the-badge&logo=cplusplus&logoColor=3ef2b0" alt="C++"/>
+<img src="https://img.shields.io/badge/Python-0b1020?style=for-the-badge&logo=python&logoColor=ffb454" alt="Python"/>
+<img src="https://img.shields.io/badge/MySQL-0b1020?style=for-the-badge&logo=mysql&logoColor=4aa8ff" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Canva-0b1020?style=for-the-badge&logo=canva&logoColor=3ef2b0" alt="Canva"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-0b1020?style=for-the-badge&logo=googlegemini&logoColor=c792ea" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Claude-0b1020?style=for-the-badge&logo=anthropic&logoColor=ffb454" alt="Claude"/>
+<img src="https://img.shields.io/badge/Git-0b1020?style=for-the-badge&logo=git&logoColor=ff6b6b" alt="Git"/>
+
+</div>
+
+<br/>
+
+## Achievements
+
+<!-- EDIT: replace with your real achievements. Keep each line factual: rank, event, year. -->
+
+| Year | Achievement | Level |
+|:--|:--|:--|
+| 2026 | **3st Place**, Inovation World Lake Day | National |
+
+<br/>
+
+## Organization and leadership
+
+<!-- EDIT: replace with your real roles -->
+
+- **Member**, *Student Association of YOUR MAJOR (Himpunan Mahasiswa Informatika)*, 2025 to present
+  Led programs, coordinated a team of N members, and managed event publications.
+- **Leader**, *Reika*, 2026 to 2030
+  Short description of what you did.
+- **Ambassador**, *Google Student Ambassador*, 2025
+  Short description of your role.
+
+<br/>
+
+## The city I built this year
+
+<!-- 3D contribution graph. Generated by .github/workflows/profile-3d.yml (see the steps in the notes). -->
+
+<div align="center">
+<img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%"/>
+</div>
+
+<br/>
+
+## Live GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0b1020&title_color=3ef2b0&icon_color=4aa8ff&text_color=e6ecff&ring_color=3ef2b0" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=0b1020&ring=3ef2b0&fire=ffb454&currStreakNum=e6ecff&sideNums=e6ecff&currStreakLabel=3ef2b0&sideLabels=8fa3d9&dates=5d6fa8" alt="GitHub streak"/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0b1020&title_color=3ef2b0&text_color=e6ecff" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+## Featured projects
+
+<!-- EDIT: pin 2 to 4 repos. Replace repo names below. -->
+
+<div align="center">
+
+<a href="https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=YOUR-REPO-1&hide_border=true&bg_color=0b1020&title_color=3ef2b0&text_color=e6ecff&icon_color=4aa8ff" alt="Project 1"/></a>
+<a href="https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-GITHUB-USERNAME&repo=YOUR-REPO-2&hide_border=true&bg_color=0b1020&title_color=3ef2b0&text_color=e6ecff&icon_color=4aa8ff" alt="Project 2"/></a>
+
+</div>
+
+<br/>
+
+## Currently
+
+- Learning Python: data structures, file handling, and small automation scripts
+- Strengthening C++: algorithms, OOP, and problem solving
+- Practicing MySQL: schema design, joins, and indexing
+- Looking for teammates for competitions and open-source projects
+
+<br/>
+
+<div align="center">
+
+*"Learning in public, one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:111c3d,100:3ef2b0&height=110&section=footer" width="100%" alt=""/>
+
+</div>
